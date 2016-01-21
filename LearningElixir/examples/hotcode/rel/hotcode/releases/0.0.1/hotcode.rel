@@ -1,0 +1,10 @@
+{release,{"hotcode","0.0.1"},
+         {erts,"7.2.1"},
+         [{kernel,"4.1.1"},
+          {stdlib,"2.7"},
+          {compiler,"6.0.2"},
+          {elixir,"1.2.1"},
+          {logger,"1.2.1"},
+          {hotcode,"0.0.1"},
+          {iex,"1.2.1"},
+          {sasl,"2.6.1"}]}. 

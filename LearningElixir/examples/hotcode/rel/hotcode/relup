@@ -1,0 +1,9 @@
+{"0.0.2",
+ [{"0.0.1",[],
+   [{load_object_code,{hotcode,"0.0.2",['Elixir.Hotcode']}},
+    point_of_no_return,
+    {load,{'Elixir.Hotcode',brutal_purge,brutal_purge}}]}],
+ [{"0.0.1",[],
+   [{load_object_code,{hotcode,"0.0.1",['Elixir.Hotcode']}},
+    point_of_no_return,
+    {load,{'Elixir.Hotcode',brutal_purge,brutal_purge}}]}]}.

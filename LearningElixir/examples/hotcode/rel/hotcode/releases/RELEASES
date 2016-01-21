@@ -1,0 +1,10 @@
+[{release,"hotcode","0.0.2","7.2.1",
+          [{kernel,"4.1.1","./lib/kernel-4.1.1"},
+           {stdlib,"2.7","./lib/stdlib-2.7"},
+           {compiler,"6.0.2","./lib/compiler-6.0.2"},
+           {elixir,"1.2.1","./lib/elixir-1.2.1"},
+           {logger,"1.2.1","./lib/logger-1.2.1"},
+           {hotcode,"0.0.2","./lib/hotcode-0.0.2"},
+           {iex,"1.2.1","./lib/iex-1.2.1"},
+           {sasl,"2.6.1","./lib/sasl-2.6.1"}],
+          permanent}].
